@@ -1,0 +1,32 @@
+
+        .div_a {
+            background-color: red;
+            width: 400px;
+            height: 400px;
+        }
+
+        .div_a .div_b {
+            background-color: yellow;
+            width: 70%;
+            height: 75%;
+        }
+
+        p{  
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 70px;
+            color: gold;
+            background-color: black;
+            font-weight: bold;
+        }
+
+        .div_c {
+            width: 70%;
+            height: 20vh;
+            background-color: purple;
+        }
+
+        .div_c .div_d {
+            width: 29vw;
+            height: 30%;
+            background-color: cyan;
+        }
